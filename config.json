@@ -1,0 +1,15 @@
+{
+    "user_id_list": ["1793285524"],
+    "filter": 1,
+    "since_date": "2021-03-01",
+    "end_date": "now",
+    "random_wait_pages": [1, 5],
+    "random_wait_seconds": [6, 10],
+    "global_wait": [[1000, 3600], [500, 2000]],
+    "write_mode": ["csv"],
+    "pic_download": 0,
+    "video_download": 0,
+	"file_download_timeout": [5, 5, 10],
+	"result_dir_name": 0,
+    "cookie": "SUB=_2A25JQsT9DeRhGeFO61EX8i7KyT2IHXVqzOy1rDV6PUJbkdB-LUGkkW1NQYYmTFVQdCO4m9pa2aZhXahoL0Uf5MKO; SCF=Argq_TFF-2tv-nteSNPutjeXS-UpF5PtwVcyHzgN02GNdatG5QpW25iCwKO0gGkQ0p6SIiwq92LmB3hnF60xfog.; SSOLoginState=1682355373; _T_WM=38385386126; WEIBOCN_FROM=1110006030; MLOGIN=1; M_WEIBOCN_PARAMS=luicode=20000174&uicode=20000174"
+}
