@@ -20,4 +20,4 @@ class Weibo:
         self.comment_num = 0
 
     def __str__(self):
-        return result
+        return ""
