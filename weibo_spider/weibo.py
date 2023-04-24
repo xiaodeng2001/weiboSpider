@@ -20,4 +20,5 @@ class Weibo:
         self.comment_num = 0
 
     def __str__(self):
-        return ""
+        result = self.content + '\n'
+        return result
