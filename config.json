@@ -4,7 +4,7 @@
     "since_date": "2021-03-01",
     "end_date": "now",
     "random_wait_pages": [1, 5],
-    "random_wait_seconds": [6, 10],
+    "random_wait_seconds": [6, 11],
     "global_wait": [[1000, 3600], [500, 2000]],
     "write_mode": ["csv"],
     "pic_download": 0,
